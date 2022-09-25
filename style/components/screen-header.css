@@ -11,7 +11,9 @@
 .screen-header_icons{
   text-align: end;
 }
-
+.screen-header_icons > span{
+    margin-left: 25px;
+}
 /* chat screen header */
 .alt-screen-header_column{
   width: 20%;
