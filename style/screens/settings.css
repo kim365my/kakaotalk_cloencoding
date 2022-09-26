@@ -1,4 +1,4 @@
-.setting-compoent{
+.setting-component{
     padding: 10px;
     border-bottom: var(--main-border);
     height: 60px;
@@ -6,9 +6,12 @@
     justify-content: space-between;
     align-items: center;
 }
-.setting-compoent i{
+.setting-component i{
     margin-right: 5px;
 }
 .setting-component:hover{
     background-color: rgba(0, 0, 0, 0.1);
+}
+.setting-component_column:last-child{
+    color: rgba(0, 0, 0, 0.4);
 }

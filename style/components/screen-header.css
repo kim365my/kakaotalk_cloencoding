@@ -17,6 +17,7 @@
 /* chat screen header */
 .alt-screen-header_column{
   width: 20%;
+  display: flex;
 }
 .alt-screen-header_column:nth-child(2){
   text-align: center;
